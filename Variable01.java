@@ -18,8 +18,6 @@ public class Variable01 {
         System.out.println("Umur: " + umur);
         System.out.println("Prodi: " + prodi);
 
-        // tugas
-        // kompilasi perintah java
-        // run : java
+        
     }
 }
